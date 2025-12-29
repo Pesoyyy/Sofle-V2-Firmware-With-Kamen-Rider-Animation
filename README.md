@@ -7,6 +7,7 @@ Have no experience on editing firmware but Im glad I can do this shitshow and it
 GIF that I used: ![Den O](https://github.com/user-attachments/assets/a6f254d5-e11f-4ff1-91b4-06cf4a83b435)
 
 The display that finally works
+
 https://github.com/user-attachments/assets/3091627a-22a2-4397-a151-6567e62f20f0
 
 I just made a custom firmware for Sofle V2 that works with VIA editor ([https://usevia.app](https://usevia.app))
