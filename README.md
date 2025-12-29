@@ -4,7 +4,10 @@
 
 Im doing this because I'm curious for editing my sofle V2 Keyboard lol.
 Have no experience on editing firmware but Im glad I can do this shitshow and its work.
-(nanti ada video disini)
+
+
+https://github.com/user-attachments/assets/3091627a-22a2-4397-a151-6567e62f20f0
+
 
 
 I just made a custom firmware for Sofle V2 that works with VIA editor ([https://usevia.app](https://usevia.app))
